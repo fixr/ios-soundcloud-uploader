@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Audio</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Sample Rate</string>
+			<key>Key</key>
+			<string>sample_rate</string>
+			<key>DefaultValue</key>
+			<integer>44100</integer>
+			<key>Values</key>
+			<array>
+				<integer>32000</integer>
+				<integer>44100</integer>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>32k Hz</string>
+				<string>44k Hz</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Audio Quality</string>
+			<key>Key</key>
+			<string>sound_quality</string>
+			<key>DefaultValue</key>
+			<integer>3</integer>
+			<key>Values</key>
+			<array>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+				<integer>4</integer>
+				<integer>5</integer>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>Minimum</string>
+				<string>Low</string>
+				<string>Medium</string>
+				<string>High</string>
+				<string>Maximum</string>
+			</array>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>
