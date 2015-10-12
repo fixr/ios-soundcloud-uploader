@@ -14,3 +14,8 @@ Simply go to http://soundcloud.com/you/apps and create your. Copy the ClientID a
 ## Known issues
 
 - Compiles on iOS up to 8.4, but runs only up to the iOS iPhone 5 simulator.
+
+
+## Screenshots
+
+![](http://fixr.github.io/img/ios-soundcloud-uploader-1.jpg) ![](http://fixr.github.io/img/ios-soundcloud-uploader-2.jpg) ![](http://fixr.github.io/img/ios-soundcloud-uploader-3.jpg) ![](http://fixr.github.io/img/ios-soundcloud-uploader-4.jpg) ![](http://fixr.github.io/img/ios-soundcloud-uploader-5.jpg)
