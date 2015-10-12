@@ -1,4 +1,4 @@
-# SoundCloud Uploader
+# iOS SoundCloud Uploader
 A simple iOS app to record, upload and play sounds to your SoundCloud account.
 
 This is a small but fully functional hobby project of mine. I figured that I needed an app to record guitar ideas on the go, and couldn't find something that did only that... So I made it!
